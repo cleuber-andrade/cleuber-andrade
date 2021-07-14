@@ -27,7 +27,7 @@
   <img align="center" alt="cleuber-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">   
 </div><br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cleuber-andrade&show_icons=true&theme=merke" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cleuber-andrade&show_icons=true&theme=merko" />
  <p align="center"> <img align="center" height="300" width="300" src="ninja.png"/>
 
 
