@@ -2,10 +2,19 @@
 
 # I'm Cleuber Andrade 
  
-- I live in Rio de Janeiro, :brazil:
+- I live in Rio de Janeiro, southeastern Brazil. 
+- I study software engineer in college. :student:
+- I'm looking for my first job opportunity as a Web developer.:computer:
+- I have been studying about React.JS :books:
  
 ## Connect with me:
+ <a href="https://www.linkedin.com/in/cleuber-andrade-b8955420b/" target="_blank">
+   <img align="center" alt="cleuber-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+ </a>
  
+ <a href="https://www.facebook.com/profile.php?id=100002545407256" target="_blank">
+   <img align="center" alt="cleuber-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
+ </a>
  
 ## My skills 
 <div style="display: inline_block"><br>
