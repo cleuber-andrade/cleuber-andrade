@@ -28,6 +28,7 @@
 </div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cleuber-andrade&show_icons=true&theme=merke" />
+ <p align="center"> <img align="center" height="100" width="100" src="ninja.png"/>
 
 
 ![Snake animation](https://github.com/cleuber-andrade/cleuber-andrade/blob/output/github-contribution-grid-snake.svg)
