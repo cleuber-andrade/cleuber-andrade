@@ -24,18 +24,10 @@
   <img align="center" alt="cleuber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="cleuber-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> 
   <img align="center" alt="cleuber-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
-  <img align="center" alt="cleuber-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
-  
- <div style="display: inline_block"><br>
- 
-  <a href="https://github.com/cleuber-andrade">
-  <a>
-    <img align="center" height="180em" width="650em" src="https://github-readme-stats.vercel.app/api?username=cleuber-andrade&show_icons=true&theme=merko"/><br>
-  </a>
-  <a>
-    <img align="center" height="180em" width="650em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleuber-andrade&layout=compact&langs_count=7&theme=merko">
-  </a>
+  <img align="center" alt="cleuber-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">   
 </div>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cleuber-andrade&show_icons=true&theme=merke" />
 
- ![Snake animation](https://github.com/cleuber-andrade/cleuber-andrade/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/cleuber-andrade/cleuber-andrade/blob/output/github-contribution-grid-snake.svg)
