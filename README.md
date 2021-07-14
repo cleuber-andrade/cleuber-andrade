@@ -33,16 +33,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_Kami&theme=merko"/>
 </a><br>
 
-<a href="https://github.com/cleuber-andrade/Projeto_mata_mosquito">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=Projeto_mata_mosquito&theme=merko" />
+<a href="https://github.com/cleuber-andrade/projeto_mata_mosquito">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_mata_mosquito&theme=merko" />
 </a><br>
 
-<a href="https://github.com/cleuber-andrade/app__orcamento_pessoal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=app__orcamento_pessoal&theme=merko"/>
+<a href="https://github.com/cleuber-andrade/app_orcamento_pessoal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=app_orcamento_pessoal&theme=merko"/>
 </a><br>
 
-<a href="https://github.com/cleuber-andrade/Projeto_Finnas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=Projeto_Finnas&theme=merko" />
+<a href="https://github.com/cleuber-andrade/projeto_Finnas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_Finnas&theme=merko" />
 </a><br>
 
 
