@@ -1,8 +1,8 @@
-### Hi there :vulcan_salute::grin: 
+### Hi there :vulcan_salute: :grin: 
 
-# I'm Cleuber Andrade
+# I'm Cleuber Andrade 
  
-- I live in Rio de Janeiro 
+- I live in Rio de Janeiro, :brazil:
  
 ## Connect with me:
  
