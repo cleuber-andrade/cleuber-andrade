@@ -42,6 +42,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_Finnas&theme=merko" />
 </a><br>
 
+<a href="https://github.com/cleuber-andrade/app_orcamento_pessoal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=app_orcamento_pessoal&theme=merko"/>
+</a><br>
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cleuber-andrade&show_icons=true&theme=merko" />
  <p align="center"> <img align="center" height="300" width="300" src="ninja.png"/>
