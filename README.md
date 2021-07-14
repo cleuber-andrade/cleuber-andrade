@@ -9,11 +9,11 @@
  
 ## Connect with me:
  <a href="https://www.linkedin.com/in/cleuber-andrade-b8955420b/" target="_blank">
-   <img align="center" alt="cleuber-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+   <img align="center" alt="cleuber-linkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
  </a>
  
  <a href="https://www.facebook.com/profile.php?id=100002545407256" target="_blank">
-   <img align="center" alt="cleuber-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
+   <img align="center" alt="cleuber-Facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
  </a>
  
 ## My skills 
