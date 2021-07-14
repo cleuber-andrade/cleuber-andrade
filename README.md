@@ -8,13 +8,15 @@
 - I have been studying about React.JS :books:
  
 ## Connect with me:
+<div><br>
  <a href="https://www.linkedin.com/in/cleuber-andrade-b8955420b/" target="_blank">
    <img align="center" alt="cleuber-linkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
  </a>
  
  <a href="https://www.facebook.com/profile.php?id=100002545407256" target="_blank">
    <img align="center" alt="cleuber-Facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
- </a> 
+ </a>
+</div><br><br>
  
  
 ## My skills
@@ -25,21 +27,26 @@
   <img align="center" alt="cleuber-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> 
   <img align="center" alt="cleuber-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
   <img align="center" alt="cleuber-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">   
-</div><br>
+</div><br><br>
 
-## Some projects from my repository
+## Some projects from my repository:
+<div><br>
+  <a href="https://github.com/cleuber-andrade/projeto_Kami">
+    <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_Kami&theme=merko"/>
+  </a>
 
-<a href="https://github.com/cleuber-andrade/projeto_Kami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_Kami&theme=merko"/>
-</a>
+  <a href="https://github.com/cleuber-andrade/projeto_mata_mosquito">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_mata_mosquito&theme=merko" />
+  </a>
 
-<a href="https://github.com/cleuber-andrade/projeto_mata_mosquito">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_mata_mosquito&theme=merko" />
-</a>
+  <a href="https://github.com/cleuber-andrade/projeto_Finnas">
+    <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_Finnas&theme=merko" />
+  </a>
 
-<a href="https://github.com/cleuber-andrade/projeto_Finnas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_Finnas&theme=merko" />
-</a>
+  <a href="https://github.com/cleuber-andrade/Projeto_theme_dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=Projeto_theme_dark&theme=merko" />
+  </a>
+</div><br><br>
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cleuber-andrade&show_icons=true&theme=merko" />
