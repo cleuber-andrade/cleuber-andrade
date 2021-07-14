@@ -16,6 +16,10 @@
    <img align="center" alt="cleuber-Facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
  </a>
  
+ <a href="https://www.facebook.com/profile.php?id=100002545407256" target="_blank">
+   <img align="center" alt="cleuber-instagram" height="30" width="40" src="">
+ </a>
+ 
 ## My skills 
 <div style="display: inline_block"><br>
   <img align="center" alt="cleuber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
