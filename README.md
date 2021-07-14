@@ -43,8 +43,8 @@
     <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_Finnas&theme=merko" />
   </a>
 
-  <a href="https://github.com/cleuber-andrade/Projeto_theme_dark">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=Projeto_theme_dark&theme=merko" />
+  <a href="https://github.com/cleuber-andrade/agendamento_consultorio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=agendamento_consultorio&theme=merko" />
   </a>
 </div><br><br>
 
