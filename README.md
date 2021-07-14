@@ -25,7 +25,8 @@
   <img align="center" alt="cleuber-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> 
   <img align="center" alt="cleuber-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
   <img align="center" alt="cleuber-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
- <div> <br>
+  
+ <div style="display: inline_block"> <br>
  
   <a href="https://github.com/cleuber-andrade">
   <a>
