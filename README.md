@@ -14,11 +14,8 @@
  
  <a href="https://www.facebook.com/profile.php?id=100002545407256" target="_blank">
    <img align="center" alt="cleuber-Facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
- </a>
+ </a> 
  
- <a href="https://www.facebook.com/profile.php?id=100002545407256" target="_blank">
-   <img align="center" alt="cleuber-instagram" height="30" width="40" src="img/iconfinder-social-media-applications-3instagram-4102579_113804 (1)">
- </a>
  
 ## My skills 
 <div style="display: inline_block"><br>
