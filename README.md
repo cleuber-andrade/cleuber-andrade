@@ -1,8 +1,12 @@
 ## Olá! Eu sou Cleuber Andrade
- <div style="display: inline"><br>
+ <div><br>
   <a href="https://github.com/cleuber-andrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleuber-andrade&show_icons=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleuber-andrade&layout=compact&langs_count=7&theme=merko"/>
+  <a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleuber-andrade&show_icons=true&theme=merko"/>
+  </a>
+  <a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleuber-andrade&layout=compact&langs_count=7&theme=merko"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="cleuber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
