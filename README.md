@@ -1,7 +1,7 @@
 ## Olá! Eu sou Cleuber Andrade
  <div>
   <a href="https://github.com/cleuber-andrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleuber-andrade&show_icons=true&theme=merko_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleuber-andrade&show_icons=true&theme=merko"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleuber-andrade&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
