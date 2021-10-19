@@ -33,7 +33,7 @@
 ## Basic Notions:
 <div style="display: inline_block"><br>  
   <img align="center" alt="cleuber-express" height="30" width="40"          src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original.svg">  
- <img align="center" alt="cleuber-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> 
+ <img align="center" alt="cleuber-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"> 
  <img align="center" alt="cleuber-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
 </div><br><br>
 
