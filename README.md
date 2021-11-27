@@ -39,8 +39,8 @@
 </div><br><br>
 
 ## Some projects from my repository:
-<div ><br> 
- <div display="inline-block">
+<div display="inline-block" ><br> 
+ 
   <a href="https://github.com/cleuber-andrade/projeto_Kami">     
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&layout=compact&repo=projeto_Kami&theme=merko"/>
    </a>
@@ -56,7 +56,7 @@
    <a href="https://github.com/cleuber-andrade/agendamento_consultorio">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&layout=compact&repo=agendamento_consultorio&theme=merko" />
    </a>   
- </div>    
+    
 </div><br><br>
 
 
