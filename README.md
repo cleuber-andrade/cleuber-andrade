@@ -42,6 +42,4 @@
  <p align="center"> <img align="center" height="300" width="300" src="ninja.png"/>
 
 
-
-
-  
+![Snake animation](https://github.com/cleuber-andrade/cleuber-andrade/blob/output/github-contribution-grid-snake.svg)
