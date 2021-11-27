@@ -40,7 +40,7 @@
 
 ## Some projects from my repository:
 <div align="center"><br>  
-   <a href="https://github.com/cleuber-andrade/projeto_Kami">
+   <a href="https://github.com/cleuber-andrade/projeto_Kami">     
      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&layout=compact&repo=projeto_Kami&theme=merko"/>
    </a>
 
