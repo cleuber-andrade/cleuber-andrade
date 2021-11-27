@@ -41,19 +41,19 @@
 ## Some projects from my repository:
 <div align="center"><br>  
    <a href="https://github.com/cleuber-andrade/projeto_Kami">     
-     <img align="start" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&layout=compact&repo=projeto_Kami&theme=merko"/>
+     <img align-itens="start" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&layout=compact&repo=projeto_Kami&theme=merko"/>
    </a>
 
    <a href="https://github.com/cleuber-andrade/projeto_mata_mosquito">
-     <img align="end" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&layout=compact&repo=projeto_mata_mosquito&theme=merko" />
+     <img align-itens="end" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&layout=compact&repo=projeto_mata_mosquito&theme=merko" />
    </a>
   
    <a href="https://github.com/cleuber-andrade/projeto_Finnas">
-     <img align="start" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&layout=compact&repo=projeto_Finnas&theme=merko" />
+     <img align-itens="start" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&layout=compact&repo=projeto_Finnas&theme=merko" />
    </a>
 
    <a href="https://github.com/cleuber-andrade/agendamento_consultorio">
-     <img align="end" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&layout=compact&repo=agendamento_consultorio&theme=merko" />
+     <img align-itens="end" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&layout=compact&repo=agendamento_consultorio&theme=merko" />
    </a>   
 </div><br><br>
 
