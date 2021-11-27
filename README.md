@@ -45,7 +45,7 @@
   </a>
 
   <a href="https://github.com/cleuber-andrade/projeto_mata_mosquito">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_mata_mosquito&theme=merko" />
+    <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_mata_mosquito&theme=merko" />
   </a>
 
   <a href="https://github.com/cleuber-andrade/projeto_Finnas">
@@ -53,7 +53,7 @@
   </a>
 
   <a href="https://github.com/cleuber-andrade/agendamento_consultorio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=agendamento_consultorio&theme=merko" />
+    <img align="start" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=agendamento_consultorio&theme=merko" />
   </a>
 </div><br><br>
 
