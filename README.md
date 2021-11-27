@@ -39,7 +39,7 @@
 </div><br><br>
 
 ## Some projects from my repository:
-<div align="center"><br>
+<div><br>
   <a href="https://github.com/cleuber-andrade/projeto_Kami">
     <img align="end" src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&repo=projeto_Kami&theme=merko"/>
   </a>
