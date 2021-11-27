@@ -39,7 +39,7 @@
 </div><br><br>
 
 ## Some projects from my repository:
-<div display="inline-block" ><br> 
+<div style="display: inline_block" ><br> 
  
   <a href="https://github.com/cleuber-andrade/projeto_Kami">     
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleuber-andrade&layout=compact&repo=projeto_Kami&theme=merko"/>
