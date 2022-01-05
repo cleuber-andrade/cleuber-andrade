@@ -5,7 +5,7 @@
 - I live in Rio de Janeiro, southeastern Brazil. 
 - I study software engineer in college. :student:
 - I'm looking for my first job opportunity as a Web developer.:computer:
-- I have been studying about React.JS :books:
+- I have been studying about React.JS and Next.js :books:
  
 ## Connect with me:
 <div><br>
